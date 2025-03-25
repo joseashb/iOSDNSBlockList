@@ -1,4 +1,7 @@
-0.0.0.0 update.playstation.net
-0.0.0.0 dl.playstation.net
-0.0.0.0 ps4-system.sec.np.dl.playstation.net
-0.0.0.0 fsa01.ps4.update.playstation.net
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp2.apple.com
+0.0.0.0 valid.apple.com
+0.0.0.0 crl.apple.com
+0.0.0.0 certs.apple.com
+0.0.0.0 appattest.apple.com
+0.0.0.0 vpp.itunes.apple.com
